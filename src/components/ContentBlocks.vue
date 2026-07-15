@@ -238,22 +238,6 @@ const paragraphs = computed(() => {
   margin: 0 0 2rem;
 }
 
-.rich-content :deep(.media-card.media-left) {
-  grid-template-columns: minmax(200px, 280px) minmax(0, 1fr);
-}
-
-.rich-content :deep(.media-card.media-right) {
-  grid-template-columns: minmax(0, 1fr) minmax(200px, 280px);
-}
-
-.rich-content :deep(.media-card.media-right) .media-photo {
-  order: 2;
-}
-
-.rich-content :deep(.media-card.media-right) .media-copy {
-  order: 1;
-}
-
 .rich-content :deep(.media-photo) {
   width: 100%;
   max-width: 100%;
@@ -262,29 +246,12 @@ const paragraphs = computed(() => {
   border-radius: 1rem;
   margin: 0;
   box-shadow: 0 10px 26px rgba(12, 51, 38, 0.12);
-}
-
-/* Partner logos inside media cards should stay compact */
-.rich-content :deep(.media-card a .media-photo),
-.rich-content :deep(.media-photo[src*='logo' i]),
-.rich-content :deep(.media-photo[src*='one-happy-camper' i]) {
-  aspect-ratio: auto;
-  width: auto;
-  max-width: 200px;
-  max-height: 140px;
-  object-fit: contain;
-  border-radius: 0.5rem;
-  box-shadow: none;
-  background: transparent;
-}
-
-.rich-content :deep(.media-card:has(a .media-photo), .media-card:has(.media-photo[src*='logo' i])) {
-  grid-template-columns: minmax(140px, 200px) minmax(0, 1fr);
-  align-items: center;
+  order: 0;
 }
 
 .rich-content :deep(.media-copy) {
   min-width: 0;
+  order: 1;
 }
 
 .rich-content :deep(.media-copy h2),
@@ -298,18 +265,12 @@ const paragraphs = computed(() => {
 
 @media (max-width: 720px) {
   .rich-content :deep(.staff-card),
-  .rich-content :deep(.media-card),
-  .rich-content :deep(.media-card.media-right) {
+  .rich-content :deep(.media-card) {
     grid-template-columns: 1fr;
   }
 
   .rich-content :deep(.staff-photo) {
     width: min(220px, 55vw);
-  }
-
-  .rich-content :deep(.media-card.media-right) .media-photo,
-  .rich-content :deep(.media-card.media-right) .media-copy {
-    order: initial;
   }
 }
 
