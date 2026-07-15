@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted, onUnmounted, ref } from 'vue'
+import { onMounted, onUnmounted, ref, watch } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { site } from '@/content/site'
 
@@ -21,6 +21,17 @@ function toggleMenu(label: string) {
   openMenu.value = openMenu.value === label ? null : label
 }
 
+watch(open, (isOpen) => {
+  document.body.style.overflow = isOpen ? 'hidden' : ''
+})
+
+watch(
+  () => route.fullPath,
+  () => {
+    close()
+  },
+)
+
 onMounted(() => {
   onScroll()
   window.addEventListener('scroll', onScroll, { passive: true })
@@ -28,32 +39,71 @@ onMounted(() => {
 
 onUnmounted(() => {
   window.removeEventListener('scroll', onScroll)
+  document.body.style.overflow = ''
 })
 </script>
 
 <template>
   <header class="header" :class="{ scrolled, open }">
-    <div class="container-wide header-inner">
-      <RouterLink class="brand" to="/" @click="close">
-        <span class="brand-mark" aria-hidden="true">CBM</span>
-        <span class="brand-text">
-          <strong>Camp Barney Medintz</strong>
-          <em>{{ site.tagline }}</em>
-        </span>
-      </RouterLink>
+    <div class="header-bar">
+      <div class="container-wide header-inner">
+        <RouterLink class="brand" to="/" @click="close">
+          <span class="brand-mark" aria-hidden="true">CBM</span>
+          <span class="brand-text">
+            <strong>Camp Barney Medintz</strong>
+            <em>{{ site.tagline }}</em>
+          </span>
+        </RouterLink>
 
-      <button
-        class="menu-toggle"
-        type="button"
-        :aria-expanded="open"
-        aria-controls="primary-nav"
-        @click="open = !open"
-      >
-        <span class="sr-only">Menu</span>
-        <span /><span /><span />
-      </button>
+        <button
+          class="menu-toggle"
+          type="button"
+          :aria-expanded="open"
+          aria-controls="primary-nav"
+          @click="open = !open"
+        >
+          <span class="sr-only">Menu</span>
+          <span /><span /><span />
+        </button>
 
-      <nav id="primary-nav" class="nav" :aria-hidden="!open && undefined">
+        <nav id="primary-nav" class="nav desktop-nav" aria-label="Primary">
+          <ul class="nav-main">
+            <li v-for="item in site.nav" :key="item.label" class="nav-item">
+              <div class="nav-link-row">
+                <RouterLink
+                  :to="item.to"
+                  class="nav-link"
+                  :class="{ active: route.path === item.to || route.path.startsWith(item.to + '/') }"
+                >
+                  {{ item.label }}
+                </RouterLink>
+              </div>
+              <ul v-if="item.children?.length" class="submenu">
+                <li v-for="child in item.children" :key="child.to">
+                  <RouterLink :to="child.to">{{ child.label }}</RouterLink>
+                </li>
+              </ul>
+            </li>
+          </ul>
+
+          <div class="nav-utility">
+            <a class="login" :href="site.accountLogin" target="_blank" rel="noopener">Account Login</a>
+            <RouterLink
+              v-for="item in site.utility"
+              :key="item.to"
+              :to="item.to"
+              class="btn"
+              :class="item.primary ? 'btn-primary' : 'btn-outline util'"
+            >
+              {{ item.label }}
+            </RouterLink>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <div class="mobile-panel" :class="{ open }" :aria-hidden="!open">
+      <nav class="mobile-nav" aria-label="Mobile">
         <ul class="nav-main">
           <li v-for="item in site.nav" :key="item.label" class="nav-item">
             <div class="nav-link-row">
@@ -92,7 +142,7 @@ onUnmounted(() => {
           <a class="login" :href="site.accountLogin" target="_blank" rel="noopener">Account Login</a>
           <RouterLink
             v-for="item in site.utility"
-            :key="item.to"
+            :key="`m-${item.to}`"
             :to="item.to"
             class="btn"
             :class="item.primary ? 'btn-primary' : 'btn-outline util'"
@@ -111,6 +161,11 @@ onUnmounted(() => {
   position: sticky;
   top: 0;
   z-index: 50;
+}
+
+.header-bar {
+  position: relative;
+  z-index: 2;
   height: var(--header-h);
   background: rgba(251, 252, 251, 0.88);
   backdrop-filter: blur(14px);
@@ -119,8 +174,8 @@ onUnmounted(() => {
     box-shadow 0.3s var(--ease);
 }
 
-.header.scrolled,
-.header.open {
+.header.scrolled .header-bar,
+.header.open .header-bar {
   background: rgba(251, 252, 251, 0.96);
   box-shadow: 0 1px 0 var(--line);
 }
@@ -191,6 +246,7 @@ onUnmounted(() => {
   justify-content: center;
   gap: 0.35rem;
   cursor: pointer;
+  z-index: 3;
 }
 
 .menu-toggle span {
@@ -211,7 +267,7 @@ onUnmounted(() => {
   transform: translateY(-7px) rotate(-45deg);
 }
 
-.nav {
+.desktop-nav {
   display: flex;
   align-items: center;
   gap: 1.25rem;
@@ -257,7 +313,8 @@ onUnmounted(() => {
   color: var(--ink-soft);
   cursor: pointer;
   padding: 0.35rem;
-  display: none;
+  display: inline-flex;
+  font-size: 1rem;
 }
 
 .submenu {
@@ -278,8 +335,7 @@ onUnmounted(() => {
   transition: 0.2s var(--ease);
 }
 
-.nav-item:hover .submenu,
-.submenu.show {
+.nav-item:hover .submenu {
   opacity: 1;
   pointer-events: auto;
   transform: none;
@@ -324,39 +380,49 @@ onUnmounted(() => {
   font-size: 0.85rem;
 }
 
+.mobile-panel {
+  display: none;
+}
+
 @media (max-width: 980px) {
   .menu-toggle {
     display: flex;
   }
 
-  .nav {
-    position: fixed;
-    inset: var(--header-h) 0 0;
-    background: rgba(251, 252, 251, 0.98);
-    backdrop-filter: blur(16px);
-    flex-direction: column;
-    align-items: stretch;
-    padding: 1rem 1.25rem 2rem;
-    overflow: auto;
-    transform: translateX(100%);
-    transition: transform 0.35s var(--ease);
+  .desktop-nav {
+    display: none;
   }
 
-  .header.open .nav {
+  .mobile-panel {
+    display: block;
+    position: fixed;
+    top: var(--header-h);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background: rgba(251, 252, 251, 0.98);
+    transform: translateX(100%);
+    transition: transform 0.35s var(--ease);
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .mobile-panel.open {
     transform: none;
   }
 
-  .nav-main {
+  .mobile-nav {
+    padding: 1rem 1.25rem 2.5rem;
+  }
+
+  .mobile-nav .nav-main {
     flex-direction: column;
     align-items: stretch;
     gap: 0.25rem;
   }
 
-  .chevron {
-    display: inline-flex;
-  }
-
-  .submenu {
+  .mobile-nav .submenu {
     position: static;
     opacity: 1;
     pointer-events: auto;
@@ -368,11 +434,11 @@ onUnmounted(() => {
     padding: 0.25rem 0 0.5rem 0.75rem;
   }
 
-  .submenu.show {
+  .mobile-nav .submenu.show {
     display: block;
   }
 
-  .nav-utility {
+  .mobile-nav .nav-utility {
     flex-wrap: wrap;
     margin-top: 1rem;
     padding-top: 1rem;
