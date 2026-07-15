@@ -1,0 +1,15 @@
+{
+  "id": 163,
+  "slug": "camp-store",
+  "path": "/current-families/camp-store",
+  "title": "Camp Store",
+  "parent": 155,
+  "excerpt": "Camp Barney Medintz has an online gift store with Camp Barney items for the whole family! We are always adding new products, so click here\u00a0to order your Camp Barney gear now.",
+  "menuOrder": 0,
+  "contentHtml": "<article class=\"media-card media-right\"><img class=\"media-photo\" src=\"https://www.campbarney.org/wp-content/uploads/2014/09/girls-barney-tshirts-360x324.jpg\" alt=\"girls-barney-tshirts\" loading=\"lazy\" /><div class=\"media-copy\"><p>Camp Barney Medintz has an online gift store with Camp Barney items for the whole family! We are always adding new products, so click <a href=\"https://www.packforcamp.com/collections/barney-medintz?ref=barneym\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>\u00a0to order your Camp Barney gear now.</p></div></article>",
+  "contentText": "Camp Barney Medintz has an online gift store with Camp Barney items for the whole family! We are always adding new products, so click \nhere\n\u00a0to order your Camp Barney gear now.",
+  "images": [
+    "https://www.campbarney.org/wp-content/uploads/2014/09/girls-barney-tshirts-360x324.jpg"
+  ],
+  "blocks": []
+}

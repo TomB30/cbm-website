@@ -1,0 +1,15 @@
+{
+  "id": 7451,
+  "slug": "camp-builds-character",
+  "path": "/explore/camp-builds-character",
+  "title": "Camp Builds Character",
+  "parent": 116,
+  "excerpt": "",
+  "menuOrder": 10,
+  "contentHtml": "<p><img src=\"https://www.campbarney.org/wp-content/uploads/2025/05/character.jpg\" alt=\"\" loading=\"lazy\" /></p>",
+  "contentText": "",
+  "images": [
+    "https://www.campbarney.org/wp-content/uploads/2025/05/character.jpg"
+  ],
+  "blocks": []
+}

@@ -1,0 +1,920 @@
+[
+  {
+    "id": 9025,
+    "slug": "cbm-puppy-program",
+    "path": "/explore/activities/cbm-puppy-program",
+    "title": "CBM Puppy Program",
+    "parent": 118,
+    "excerpt": "Meet the CBM Puppies This summer at Camp Barney Medintz, campers will experience something truly special \u2014 helping care for three adorable puppies as part of our new CBM Puppy Program. The puppies will live at camp all summer alongside three puppy counselors and become part of daily camp life. Campers will have the opportunity [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 7451,
+    "slug": "camp-builds-character",
+    "path": "/explore/camp-builds-character",
+    "title": "Camp Builds Character",
+    "parent": 116,
+    "excerpt": "",
+    "menuOrder": 10
+  },
+  {
+    "id": 7370,
+    "slug": "tour-camp-this-summer",
+    "path": "/tour-camp-this-summer",
+    "title": "See the Magic of Camp in Action!",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 7322,
+    "slug": "why-families-love-us",
+    "path": "/why-families-love-us",
+    "title": "\ud83c\udfd5\ufe0f Learn Why Families Love Camp Barney Medintz",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 7246,
+    "slug": "dates-and-rates",
+    "path": "/current-families/dates-and-rates",
+    "title": "Dates and Rates",
+    "parent": 155,
+    "excerpt": "Summer 2026 Dates First Session: Sunday, June 7, 2026 to Thursday, July 2, 2026 Second Session: Monday, July 6, 2026 to Friday, July 31, 2026 4-Week Sessions Open to rising 3rd-11th graders First Session: Sunday, June 7 to Thursday, July 2 Second Session: Monday, July 6 to Friday, July 31 2-Week Sessions Sessions A & [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 7244,
+    "slug": "everything-we-do-has-a-purpose",
+    "path": "/current-families/first-time-families/everything-we-do-has-a-purpose",
+    "title": "Everything We Do Has A Purpose",
+    "parent": 4412,
+    "excerpt": "It\u2019s true! Everything we do at Camp Barney is intentionally designed to provide the best possible experience for your child(ren). Everything! For example: 1. Meeting or exceeding nearly 300 national \u201cstandards\u201d by the American Camp Association, including staffing, medical practices, food service, housing and bathroom facilities, safety and security, water and sewage treatment, communication, transportation, [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 6809,
+    "slug": "intersession",
+    "path": "/intersession",
+    "title": "Intersession Forms",
+    "parent": 0,
+    "excerpt": "Atlanta Transportation Form Please use this form if you want camp-provided transportation to Atlanta during Intersession. Host Family Interest Form Please use this form (and the Atlanta Transportation Form) if you are interested in staying with a host family in Atlanta during Intersession. Staying In Camp Form Any Unit Staff or Specialists who would like [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 6099,
+    "slug": "dccamptour",
+    "path": "/dccamptour",
+    "title": "Exclusive tour for MJCCA Day Camps families",
+    "parent": 0,
+    "excerpt": "Nestled in the North Georgia mountains on more than 500 acres with two lakes, Camp Barney Medintz offers a meaningful and transformative Jewish camping experience for campers completing K \u2013 10th grade. During one-week, two-week, and four-week sessions, campers build lifelong friendships, gain independence, challenge themselves, and strengthen their Jewish identities, all while having the [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 6028,
+    "slug": "rsvp-for-a-fall-tour",
+    "path": "/explore/camptours/rsvp-for-a-fall-tour",
+    "title": "RSVP for a Fall Tour",
+    "parent": 5082,
+    "excerpt": "Prospective families are invited to tour Camp Barney Medintz to see our incredible facilities, learn about our limitless activities, and hear about the magic of camp! Meet our amazing staff and have all your questions answered. RSVP is required.",
+    "menuOrder": 0
+  },
+  {
+    "id": 6009,
+    "slug": "discovery-day",
+    "path": "/explore/discovery-day",
+    "title": "Discovery Day",
+    "parent": 116,
+    "excerpt": "For Children in Rising 1st Grade Sunday, June 28 Children in rising 1st grade can spend one amazing day at Camp Barney Medintz this summer! There will be tons of fun packed into one full day, as these young campers get a taste of the magic of camp with exciting activities that make up a [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5876,
+    "slug": "be-a-host-for-international-staff",
+    "path": "/current-families/be-a-host-for-international-staff",
+    "title": "Be a Host for International Staff!",
+    "parent": 155,
+    "excerpt": "Each summer, Camp Barney Medintz brings international staff members from all over the world, and CBM families open up their homes to them for their days off so they can relax and recharge. This is an amazing opportunity to make these staff members feel connected and part of the Atlanta and Camp Barney Medintz communities, [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5861,
+    "slug": "weekly-pre-camp-emails",
+    "path": "/weekly-pre-camp-emails",
+    "title": "Weekly Pre-Camp Emails",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 5765,
+    "slug": "rsvp-for-summer-tour",
+    "path": "/explore/camptours/rsvp-for-summer-tour",
+    "title": "RSVP for a Summer Tour",
+    "parent": 5082,
+    "excerpt": "Tour Camp Barney Medintz while we\u2019re in session to feel the excitement and magic of camp in action! RSVPs are required. Note: Summer Tours are open to families who do not have children at CBM during Summer 2026 at the time of the tour.",
+    "menuOrder": 0
+  },
+  {
+    "id": 5761,
+    "slug": "rsvp-for-spring-tour",
+    "path": "/explore/camptours/rsvp-for-spring-tour",
+    "title": "RSVP for a Spring Tour",
+    "parent": 5082,
+    "excerpt": "Prospective and new families are invited to tour Camp Barney Medintz and meet the directors and staff. Plus, bring your questions as we love to talk about Our Summer Place. Spots are limited. RSVP is required. Saturday, May 16, 10:30 am or 12:00 pm Sunday, May 17, 1:00 or 2:30 pm Please note: Online RSVPs [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5548,
+    "slug": "sitinfosession",
+    "path": "/explore/sitinfosession",
+    "title": "SIT Info Session",
+    "parent": 116,
+    "excerpt": "Please join us for a virtual SIT Info Session with Executive Director, Danny Herz, on Tuesday, December 13 at 7:00 pm.",
+    "menuOrder": 0
+  },
+  {
+    "id": 5535,
+    "slug": "director",
+    "path": "/director",
+    "title": "New Camp Barney Medintz Executive Director",
+    "parent": 0,
+    "excerpt": "I am beyond excited to share with you that our beloved Camp Barney Medintz has a new director. After an extensive nationwide search and considering multiple candidates, the search committee and I knew we\u2019d found the ideal person, leader, mentor, professional, and coach to join our Camp Barney Medintz community. I am thrilled to welcome [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5514,
+    "slug": "city-tours",
+    "path": "/city-tours",
+    "title": "Info Sessions around the Southeast",
+    "parent": 0,
+    "excerpt": "Learn about the magic of Camp Barney Medintz! Meet our directors, learn what to expect, hear about our beautiful 540-acre campus, and have all your camp questions answered! All prospective, new, or returning campers and parents are welcome! FAQs Will my camper feel out of place not being from Atlanta? Absolutely not! While the majority [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5408,
+    "slug": "financial-assistance-grants",
+    "path": "/current-families/financial-assistance-grants",
+    "title": "Financial Assistance & Grants",
+    "parent": 155,
+    "excerpt": "All of our programs may be eligible for the \u201cOne Happy Camper\u201d grant, \u201cPJ Goes to Camp\u201d grant or Financial Assistance. For any information regarding Financial Assistance, you are welcome to pursue a confidential conversation with Barbara Vahaba, Financial Assistance Coordinator, at 678.812.4142. ALL FAMILIES The One Happy Camper grant application is open for summer [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5129,
+    "slug": "tourcamp",
+    "path": "/tourcamp",
+    "title": "Tour Camp Barney Medintz!",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 5082,
+    "slug": "camptours",
+    "path": "/explore/camptours",
+    "title": "Camp Tours",
+    "parent": 116,
+    "excerpt": "Fall Tours Sunday, August 9 at 1:00 pm or 2:30 pm Sunday, September 6 at 1:00 pm Prospective families are invited to tour Camp Barney Medintz to see our incredible facilities, learn about our limitless activities, and hear about the magic of camp! Meet our amazing staff and have all your questions answered. RSVP is [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4776,
+    "slug": "personnel-policies",
+    "path": "/staff/personnel-policies",
+    "title": "Personnel Policies",
+    "parent": 185,
+    "excerpt": "The practices, policies, and procedures for staff at Camp Barney Medintz (CBM) have been designed to enable our camp staff to function within a safe and secure environment and to appreciate the scope of living within our community. The purpose of the following information is to clearly state for staff the basic requirements of living [\u2026]",
+    "menuOrder": 4
+  },
+  {
+    "id": 4594,
+    "slug": "the-ark",
+    "path": "/alumni/the-ark",
+    "title": "The Ark",
+    "parent": 205,
+    "excerpt": "Don\u2019t throw away your old camp stuff! We are collecting Camp Barney history and preserving it for future generations. Just as we put the sacred Torah scrolls in the ark, Barney\u2019s Ark is a place to capture and archive our sacred memories from Camp Barney. Please join us in collecting and preserving Camp history by [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 3877,
+    "slug": "dates-and-rates",
+    "path": "/explore/dates-and-rates",
+    "title": "Dates and Rates",
+    "parent": 116,
+    "excerpt": "Summer 2026 Dates First Session: Sunday, June 7, 2026 to Thursday, July 2, 2026 Second Session: Monday, July 6, 2026 to Friday, July 31, 2026 4-Week Sessions Open to rising 3rd-11th graders First Session: Sunday, June 7 to Thursday, July 2 Second Session: Monday, July 6 to Friday, July 31 2-Week Sessions Sessions A & [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4488,
+    "slug": "jimretirementmessage",
+    "path": "/jimretirementmessage",
+    "title": "Jim\u2019s Retirement Message",
+    "parent": 0,
+    "excerpt": "Dear Camp Barney Medintz Families, Staff, Alumni, MJCCA Board of Directors and colleagues, CBM Committee, community leaders, supporters, and friends, Every year following our summer season, I write to all Camp Barney families and staff sharing some of the highlights of our experience, accomplishments, and impact of our days together up at Camp Barney. As [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4451,
+    "slug": "happy-healthy-campers",
+    "path": "/explore/happy-healthy-campers",
+    "title": "Happy & Healthy Campers",
+    "parent": 116,
+    "excerpt": "Medical Services | Mental Health Support | Nutrition \u00a0 Medical Services Our Billi and Bernie Marcus Health Center Our goal at Camp Barney is to provide the safest and healthiest environment for your child! Our state-of-the-art Billi and Bernie Marcus Health Center is staffed by a resident physician and three to five registered nurses, all [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4430,
+    "slug": "food-at-camp",
+    "path": "/explore/during-camp/food-at-camp",
+    "title": "Food at Camp",
+    "parent": 4422,
+    "excerpt": "Camp Barney is very deliberate and intentional in ensuring our campers are well-fed, energized, and enjoying every\u00a0meal. Under the leadership of our incredible\u202fFood\u00a0Service Director,\u00a0who is dedicated to Camp\u00a0Barney\u00a0year-round and with us at camp all summer, our dining program is thoughtful, delicious, and designed to meet the needs of every camper. Our 18,000 sq ft. historic [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4429,
+    "slug": "communicating-at-camp",
+    "path": "/explore/during-camp/communicating-at-camp",
+    "title": "Communicating At Camp",
+    "parent": 4422,
+    "excerpt": "By Mail PLEASE DO NOT SEND ANY PACKAGES TO YOUR CHILD AT CAMP!\u00a0 Camp Barney\u2019s \u201cno package\u201d policy enables us to properly manage the health and safety of our campers and staff. If you have an urgent need (i.e., a forgotten pillow or teddy bear), please contact our office staff at 678.812.3844. A steady flow [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4428,
+    "slug": "birthdays",
+    "path": "/explore/during-camp/birthdays",
+    "title": "Birthdays",
+    "parent": 4422,
+    "excerpt": "A wonderful celebration awaits campers whose birthday occurs during their session at camp, including yummy cake for their cabin and lots of singing by everyone in camp! (If your child\u2019s birthday falls during their time at camp, please highlight this on the Confidential Camper Questionnaire.) Unfortunately, telephone calls are not permitted on this special day. [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4420,
+    "slug": "what-to-bring-what-not-to-bring",
+    "path": "/explore/before-camp/what-to-bring-what-not-to-bring",
+    "title": "What To Bring/What Not To Bring",
+    "parent": 4421,
+    "excerpt": "Packing for Camp Please be sure each item is clearly marked with your camper\u2019s first and last name (not initials!). All clothing and personal items should be plainly marked with indelible markers or labels. Please also write your camper\u2019s name on their laundry bag with indelible markers. Built-in cubby space is provided in each cabin [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4419,
+    "slug": "getting-to-camp-and-camper-luggage",
+    "path": "/explore/before-camp/getting-to-camp-and-camper-luggage",
+    "title": "Getting to Camp and Camper Luggage",
+    "parent": 4421,
+    "excerpt": "Getting Your Campers to and from Camp Campers and staff arrive at Camp Barney Medintz from all over the United States and the world. Campers have three options for arrival to camp and departure from camp. All families will get email reminders several days before their travel date with details on how we are expecting [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4418,
+    "slug": "bunkmate-requests",
+    "path": "/explore/before-camp/bunkmate-requests",
+    "title": "Bunkmate Requests",
+    "parent": 4421,
+    "excerpt": "Space is provided on the Confidential Camper Questionnaire for you to list your child\u2019s bunkmate request. Such requests will generally be honored if both families make the same request, unless there is a significant disparity in ages or grades. Some campers request to be bunked with several other children. Because of various cabin sizes, CBM [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4422,
+    "slug": "during-camp",
+    "path": "/explore/during-camp",
+    "title": "During Camp",
+    "parent": 116,
+    "excerpt": "Whether you\u2019re a first-time family or a Camp Barney veteran, you are bound to have questions about your child\u2019s time during camp. Here you will find a few quick links to make sure your specific during camp questions are covered. Birthdays: Details about celebrating your child\u2019s special day at camp Food at Camp: Camp Barney [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4421,
+    "slug": "before-camp",
+    "path": "/explore/before-camp",
+    "title": "Before Camp",
+    "parent": 116,
+    "excerpt": "Along with the excitement about a Camp Barney summer comes the logistics. How will my children get to camp? What should they pack? Can I communicate with them during the summer? What if they need to take medicine while at camp? Rest assured that we have thought through all these details and more to ensure [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4415,
+    "slug": "sample-itinerary",
+    "path": "/current-families/first-time-families/sample-itinerary",
+    "title": "Sample Itinerary",
+    "parent": 4412,
+    "excerpt": "See an example of a typical day at Camp Barney Medintz! 7:15 AM Wake Up 8:00 AM Breakfast 8:45 AM Health Call, Med Line, and Cabin Clean-up 9:15 AM Activity 1 \u2013 Ropes Activity 10:30 AM Activity 2 \u2013 Kickball 11:45 AM Lunch 12:45 PM Activity 3 \u2013 Tie-Dye 2:00 PM Rest Hour (mail and [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4414,
+    "slug": "our-commitment-why-we-exist",
+    "path": "/current-families/first-time-families/our-commitment-why-we-exist",
+    "title": "Our Commitment: Why We Exist",
+    "parent": 4412,
+    "excerpt": "1. Camp Barney Medintz will provide positive opportunities for campers to develop skills, have fun, form wonderful friendships, enhance self-esteem, and be exposed to a variety of learning experiences in a safe, exhilarating environment. 2. We will employ only those Camp staff who (a) perceive their role as conscientious leaders of children as paramount, (b) [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4412,
+    "slug": "first-time-families",
+    "path": "/current-families/first-time-families",
+    "title": "First-time Families",
+    "parent": 155,
+    "excerpt": "Since 1963, Camp Barney has offered the most meaningful and exhilarating Jewish overnight camp experience for boys and girls in rising 1st-11th grades. Thank you for allowing Camp Barney Medintz to be part of your child\u2019s journey while they have the best summer of their lives! We understand that choosing a camp can sometimes be [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4410,
+    "slug": "adjustment-to-camp",
+    "path": "/explore/first-time-families/adjustment-to-camp",
+    "title": "Adjustment To Camp",
+    "parent": 2297,
+    "excerpt": "Upon arrival at Camp Barney Medintz, it is common for all campers, new and returning, to require some adjustment. Some campers may immediately become homesick and might express these feelings in the first or second letter home to you. In fact, homesickness is NORMAL! It\u2019s often about being away from all that is familiar and [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4390,
+    "slug": "summerforms",
+    "path": "/summerforms",
+    "title": "Summer Forms",
+    "parent": 0,
+    "excerpt": "End of Camp Transportation Form Each staff member must complete this form to explain how they (and their luggage) are getting home. Maintenance Form Please use this form to request repairs to any facilities at Camp Barney. Supply Request This form is for head staff only. If you are not a member of head staff, [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 4066,
+    "slug": "thank-you",
+    "path": "/thank-you",
+    "title": "Thank You",
+    "parent": 0,
+    "excerpt": "Thank you, , for submitting the form, . You will receive an email confirmation with more details.",
+    "menuOrder": 0
+  },
+  {
+    "id": 3942,
+    "slug": "cbm-experience",
+    "path": "/explore/cbm-experience",
+    "title": "1 Week Camp Experience",
+    "parent": 116,
+    "excerpt": "CBM Experience (Campers in rising 2rd & 3rd grades) CBMX Aleph: Sunday, June 7 to Friday, June 12 (6 days) CBMX Bet: Sunday, June 14 to Friday, June 19 (6 days) CBMX Gimel: Sunday, June 21 to Friday, June 26 (6 days) CBMX Zayin: Sunday, July 19 to Friday, July 24 (6 days) CBM Experience [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 3692,
+    "slug": "summer2020",
+    "path": "/summer2020",
+    "title": "Summer 2020 Activities, Videos, Resources, and More!",
+    "parent": 0,
+    "excerpt": "Even though we weren\u2019t able to gather together at \u201cOur Summer Place\u201d in 2020, we found that the Camp Barney Medintz community is stronger than ever. We wanted to make sure there was one place where you can keep track of everything that the Camp Barney team and community created for Summer 2020. For information [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 3768,
+    "slug": "2020-virtual-color-war",
+    "path": "/summer2020/2020-virtual-color-war",
+    "title": "2020 Virtual Color War",
+    "parent": 3692,
+    "excerpt": "We\u2019re so happy that you want to participate in a day of competition and excitement. Get ready to have fun with some CBM Color War classics! The best part?! You can pick your team! Hopefully, this means you won\u2019t be scrambling to find tons of clothes in a color you don\u2019t own. If that\u2019s your [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 3522,
+    "slug": "barneybeginnings",
+    "path": "/barneybeginnings",
+    "title": "Don\u2019t think you can afford Camp Barney? With this new offer, now you can!",
+    "parent": 0,
+    "excerpt": "Barney Beginnings provides significant savings and an extended payment plan, making Jewish overnight camp more affordable, thanks to the support of a generous donor. *Offer Details: Open to new, not previously enrolled rising 3rd-6th graders in the Atlanta area Available only for June sessions \u2013 2-week or 4-week options Open to families with a household [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 3425,
+    "slug": "camp-music",
+    "path": "/explore/camp-music",
+    "title": "Camp Music \ud83c\udfb5",
+    "parent": 116,
+    "excerpt": "Camp-Wide Favorites You\u2019ll hear them in the Chippie, you\u2019ll dance to them in the Dining Hall, they\u2019ll be playing as you walk down Chapel Road for Shabbat, they\u2019re part of our \u201cCBM Top 10 Songs\u201d, they\u2019re in our slideshow, and you may even catch our staff singing along to these all-time CBM Hits. Dining Hall [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2919,
+    "slug": "2018-camper-reunion",
+    "path": "/2018-camper-reunion",
+    "title": "2018 Camper Reunion",
+    "parent": 0,
+    "excerpt": "Get Directions to Stars and Strikes. All participants must bring a signed Waiver to the Reunion, and all participants under 18 must bring a Waiver signed by a Parent or Guardian. Download form with clickable links.",
+    "menuOrder": 0
+  },
+  {
+    "id": 2817,
+    "slug": "our-summer-place",
+    "path": "/our-summer-place",
+    "title": "Make Our Summer Place Your Summer Place",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 2573,
+    "slug": "camp-videos",
+    "path": "/explore/camp-videos",
+    "title": "Camp Videos",
+    "parent": 116,
+    "excerpt": "Summer 2026 Highlights Summer 2025 Highlights Summer 2024 Highlights Summer 2023 Highlights Summer 2022 Highlights Summer 2021 Highlights Summer 2019 Highlights Summer 2018 Highlights",
+    "menuOrder": 0
+  },
+  {
+    "id": 2301,
+    "slug": "during-camp",
+    "path": "/current-families/during-camp",
+    "title": "During Camp",
+    "parent": 155,
+    "excerpt": "Whether you\u2019re a first-time family or a Camp Barney veteran, you are bound to have questions about your child\u2019s time during camp. Here you will find a few quick links to make sure your specific during camp questions are covered. Birthdays: Details about celebrating your child\u2019s special day at camp Food at Camp: Camp Barney [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2299,
+    "slug": "before-camp",
+    "path": "/current-families/before-camp",
+    "title": "Before Camp",
+    "parent": 155,
+    "excerpt": "Along with the excitement about a Camp Barney summer comes the logistics. How will my children get to camp? What should they pack? Can I communicate with them during the summer? What if they need to take medicine while at camp? Rest assured that we have thought through all these details and more to ensure [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2297,
+    "slug": "first-time-families",
+    "path": "/explore/first-time-families",
+    "title": "First-time Families",
+    "parent": 116,
+    "excerpt": "Since 1963, Camp Barney has offered the most meaningful and exhilarating Jewish overnight camp experience for boys and girls in rising 1st-11th grades. Thank you for allowing Camp Barney Medintz to be part of your child\u2019s journey while they have the best summer of their lives! We understand that choosing a camp can sometimes be [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2316,
+    "slug": "sample-itinerary",
+    "path": "/explore/first-time-families/sample-itinerary",
+    "title": "Sample Itinerary",
+    "parent": 2297,
+    "excerpt": "See an example of a typical day at Camp Barney Medintz! 7:15 AM Wake Up 8:00 AM Breakfast 8:45 AM Health Call, Med Line, and Cabin Clean-up 9:15 AM Activity 1 \u2013 Ropes Activity 10:30 AM Activity 2 \u2013 Kickball 11:45 AM Lunch 12:45 PM Activity 3 \u2013 Tie-Dye 2:00 PM Rest Hour (mail and [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2235,
+    "slug": "everything-we-do-has-a-purpose",
+    "path": "/explore/first-time-families/everything-we-do-has-a-purpose",
+    "title": "Everything We Do Has A Purpose",
+    "parent": 2297,
+    "excerpt": "It\u2019s true! Everything we do at Camp Barney is intentionally designed to provide the best possible experience for your child(ren). Everything! For example: 1. Meeting or exceeding nearly 300 national \u201cstandards\u201d by the American Camp Association, including staffing, medical practices, food service, housing and bathroom facilities, safety and security, water and sewage treatment, communication, transportation, [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2232,
+    "slug": "our-commitment-why-we-exist",
+    "path": "/explore/first-time-families/our-commitment-why-we-exist",
+    "title": "Our Commitment: Why We Exist",
+    "parent": 2297,
+    "excerpt": "1. Camp Barney Medintz will provide positive opportunities for campers to develop skills, have fun, form wonderful friendships, enhance self-esteem, and be exposed to a variety of learning experiences in a safe, exhilarating environment. 2. We will employ only those Camp staff who (a) perceive their role as conscientious leaders of children as paramount, (b) [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2253,
+    "slug": "birthdays",
+    "path": "/current-families/during-camp/birthdays",
+    "title": "Birthdays",
+    "parent": 2301,
+    "excerpt": "A wonderful celebration awaits campers whose birthday occurs during their session at camp, including yummy cake for their cabin and lots of singing by everyone in camp! (If your child\u2019s birthday falls during their time at camp, please highlight this on the Confidential Camper Questionnaire.) Unfortunately, telephone calls are not permitted on this special day. [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2251,
+    "slug": "food-at-camp",
+    "path": "/current-families/during-camp/food-at-camp",
+    "title": "Food at Camp",
+    "parent": 2301,
+    "excerpt": "Camp Barney is very deliberate and intentional in ensuring our campers are well-fed, energized, and enjoying every\u00a0meal. Under the leadership of our incredible\u202fFood\u00a0Service Director,\u00a0who is dedicated to Camp\u00a0Barney\u00a0year-round and with us at camp all summer, our dining program is thoughtful, delicious, and designed to meet the needs of every camper. Our 18,000 sq ft. historic [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2248,
+    "slug": "communicating-at-camp",
+    "path": "/current-families/during-camp/communicating-at-camp",
+    "title": "Communicating At Camp",
+    "parent": 2301,
+    "excerpt": "By Mail PLEASE DO NOT SEND ANY PACKAGES TO YOUR CHILD AT CAMP!\u00a0 Camp Barney\u2019s \u201cno package\u201d policy enables us to properly manage the health and safety of our campers and staff. If you have an urgent need (i.e., a forgotten pillow or teddy bear), please contact our office staff at 678.812.3844. A steady flow [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2246,
+    "slug": "bunkmate-requests",
+    "path": "/current-families/before-camp/bunkmate-requests",
+    "title": "Bunkmate Requests",
+    "parent": 2299,
+    "excerpt": "Space is provided on the Cabinmate Request form for families to request cabinmates. Such requests will generally be honored if both families make the same request, unless there is a significant disparity in ages or grades. Some campers request to be bunked with several other children. Because of various cabin sizes, CBM can only commit [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2244,
+    "slug": "adjustment-to-camp",
+    "path": "/current-families/first-time-families/adjustment-to-camp",
+    "title": "Adjustment To Camp",
+    "parent": 4412,
+    "excerpt": "Upon arrival at Camp Barney Medintz, it is common for all campers, new and returning, to require some adjustment. Some campers may immediately become homesick and might express these feelings in the first or second letter home to you. In fact, homesickness is NORMAL! It\u2019s often about being away from all that is familiar and [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 2237,
+    "slug": "what-to-bring-what-not-to-bring",
+    "path": "/current-families/before-camp/what-to-bring-what-not-to-bring",
+    "title": "What To Bring/What Not To Bring",
+    "parent": 2299,
+    "excerpt": "Packing for Camp Please be sure each item is clearly marked with your camper\u2019s first and last name (not initials!). All clothing and personal items should be plainly marked with indelible markers or labels. Please also write your camper\u2019s name on their laundry bag with indelible markers. Built-in cubby space is provided in each cabin [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 1054,
+    "slug": "enroll-when-its-open",
+    "path": "/enroll-when-its-open",
+    "title": "Enroll-when it\u2019s open",
+    "parent": 0,
+    "excerpt": "Registration for Summer 2022 is coming soon. \u00a0 We had a successful and healthy 2021 Season at Camp!\u00a0\u00a0 Registration for our 2022 sessions will be open in the fall.\u00a0\u00a0 Please check back often for updates. Please don\u2019t hesitate to call us at 678.812.3844 option 5 with any questions! We can\u2019t wait to welcome your children [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 1997,
+    "slug": "camp-barney-hurricane-irma-connection",
+    "path": "/camp-barney-hurricane-irma-connection",
+    "title": "Camp Barney \u201cHurricane Irma\u201d Connection",
+    "parent": 0,
+    "excerpt": "Please complete this form if you are need of housing for your family or have housing available.",
+    "menuOrder": 0
+  },
+  {
+    "id": 1956,
+    "slug": "cbm-turns-siblings-into-friends",
+    "path": "/cbm-turns-siblings-into-friends",
+    "title": "CBM Turns Siblings into Friends",
+    "parent": 0,
+    "excerpt": "Josh D\u2019Agostino and his younger sister, Gaby Sussman, were close during their formative years, despite a five-year age difference. \u201cWhen my sister and I were young we were the best of friends,\u201d Josh explains. Gaby adds, \u201cJosh was always protective and loving, and we had a good relationship; but I was a typical younger sibling, [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 1767,
+    "slug": "emails",
+    "path": "/emails",
+    "title": "Subscribe to Camp Barney emails",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 1742,
+    "slug": "camp-barney-fix-fun-day",
+    "path": "/camp-barney-fix-fun-day",
+    "title": "Fix & Fun Day",
+    "parent": 0,
+    "excerpt": "Sunday, May 5 10:00 am \u2013 1:00 pm Join us at Camp Barney for our 4th annual Fix & Fun Day! Camp families and alumni will enjoy lunch and a day of painting, planting, and playing! Leave a lasting imprint on camp with fun, family-friendly activities! Bring the whole family! Free to attend. Afterward, stay [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 1659,
+    "slug": "request-info",
+    "path": "/request-info",
+    "title": "Request Info",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 1549,
+    "slug": "connect",
+    "path": "/explore/connect",
+    "title": "Connect with Camp",
+    "parent": 116,
+    "excerpt": "There\u2019s no better way to learn what makes Camp Barney Medintz so special than by connecting directly with our team and camp families! Whether you\u2019re brand new to camp or just exploring your options, we\u2019d love to meet you and help you discover the magic of summers at Camp Barney. Connect One-on-One Want to learn [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 1352,
+    "slug": "birth-announcement",
+    "path": "/alumni/whats-new-with-you/birth-announcement",
+    "title": "Kvell and Tell \u2013 Birth Announcement",
+    "parent": 209,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 1350,
+    "slug": "marriage-announcement",
+    "path": "/alumni/whats-new-with-you/marriage-announcement",
+    "title": "Kvell and Tell \u2013 Marriage Announcement",
+    "parent": 209,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 1348,
+    "slug": "engagement-announcement",
+    "path": "/alumni/whats-new-with-you/engagement-announcement",
+    "title": "Kvell and Tell \u2013 Engagement Announcement",
+    "parent": 209,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 837,
+    "slug": "camp-news",
+    "path": "/explore/camp-news",
+    "title": "Camp Newsletters",
+    "parent": 116,
+    "excerpt": "Check out our most recent newsletters! Winter 2020 Newsletter Fall 2019 Newsletter Spring 2019 Newsletter Winter 2019 Newsletter Fall 2018 Newsletter Spring 2018 Newsletter Winter 2018 Newsletter Fall 2017 Newsletter Spring 2017 Newsletter Winter 2017 Newsletter",
+    "menuOrder": 0
+  },
+  {
+    "id": 773,
+    "slug": "financial-assistance-grants",
+    "path": "/explore/financial-assistance-grants",
+    "title": "Financial Assistance & Grants",
+    "parent": 116,
+    "excerpt": "All of our programs may be eligible for the \u201cOne Happy Camper\u201d grant, \u201cPJ Goes to Camp\u201d grant, or Financial Assistance. For any information regarding Financial Assistance, you are welcome to pursue a confidential conversation with Barbara Vahaba, Financial Assistance Coordinator, at 678.812.4142. ALL FAMILIES The One Happy Camper grant application is open for summer [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 752,
+    "slug": "payment",
+    "path": "/payment",
+    "title": "Make a Payment",
+    "parent": 0,
+    "excerpt": "Online Form \u2013 Camp Barney Medintz 2015 Deposit/Payment Form Web Form Generator",
+    "menuOrder": 0
+  },
+  {
+    "id": 592,
+    "slug": "our-programs",
+    "path": "/explore/our-programs",
+    "title": "Our Programs",
+    "parent": 116,
+    "excerpt": "Camp Barney offers 1-week, 2-week, and 4-week options throughout the summer. The four-week sessions are available for campers in rising 3rd through 11th grades. The two-week sessions are available for campers in rising 3rd through 5th grades. The one-week option, CBM Experience, is available for campers in rising 2nd and 3rd grades. Campers are divided [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 422,
+    "slug": "enroll",
+    "path": "/enroll",
+    "title": "Enroll",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 308,
+    "slug": "alumni-news",
+    "path": "/alumni/alumni-news",
+    "title": "Alumni News",
+    "parent": 205,
+    "excerpt": "Click below to read our Alumni Newsletters. October 2021 Alumni Newsletter February 2021 Alumni Newsletter August 2019 Alumni Newsletter February 2019 Alumni Newsletter September 2018 Alumni Newsletter February 2018 Alumni Newsletter Fall 2017 Alumni Newsletter Spring 2016 Alumni Newsletter Volume 17 Fall 2015 Alumni Newsletter Volume 15 Spring 2015 Alumni Newsletter Volume 14 Fall 2014 [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 273,
+    "slug": "getting-to-camp-and-camper-luggage",
+    "path": "/current-families/getting-to-camp-and-camper-luggage",
+    "title": "Getting to Camp and Camper Luggage",
+    "parent": 155,
+    "excerpt": "Getting Your Campers to and from Camp Campers and staff arrive at Camp Barney Medintz from all over the United States and the world. Campers have three options for arrival to camp and departure from camp. All families will get email reminders several days before their travel date with details on how we are expecting [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 223,
+    "slug": "contact",
+    "path": "/contact",
+    "title": "Contact Camp Barney",
+    "parent": 0,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 213,
+    "slug": "keep-in-touch",
+    "path": "/alumni/keep-in-touch",
+    "title": "Keep In Touch",
+    "parent": 205,
+    "excerpt": "We want to keep in touch so you can stay updated on CBM news and events! Please make sure your contact information is up to date. To create your alumni profile, you can\u00a0click here. If you are already on our alumni list but would like to update your information, please\u00a0click here to login. Once logged [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 211,
+    "slug": "upcoming-events",
+    "path": "/alumni/upcoming-events",
+    "title": "Upcoming Events",
+    "parent": 205,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 209,
+    "slug": "whats-new-with-you",
+    "path": "/alumni/whats-new-with-you",
+    "title": "What\u2019s New With You?",
+    "parent": 205,
+    "excerpt": "Do you have exciting news to share with your Camp Barney family? Did you recently get engaged or married? Have you recently had children? If so, we would love to know and share the wonderful news with your camp community.",
+    "menuOrder": 0
+  },
+  {
+    "id": 205,
+    "slug": "alumni",
+    "path": "/alumni",
+    "title": "Alumni",
+    "parent": 0,
+    "excerpt": "Welcome Home!\u00a0 JIT Hill. The Bog. Milkline. Skidoodler. The Chapel. Lake Wendy\u2026 if you get a warm fuzzy feeling when you hear those words, then you are in the right place\u2026 Our Summer Place! Our community of former campers and staff shares a powerful connection to Camp Barney, and we often recall the time spent [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 201,
+    "slug": "give-now",
+    "path": "/donate/give-now",
+    "title": "Give Now",
+    "parent": 199,
+    "excerpt": "If you prefer to pay by check, please forward your gift to: CBM \u2013 Development Department, 5342 Tilly Mill Rd, Dunwoody, GA 30338. Please be sure to include your contact information. If the gift is in memory or in honor of an individual, please include name and address of where you would like the tribute [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 199,
+    "slug": "donate",
+    "path": "/donate",
+    "title": "Donate to Camp Barney Medintz",
+    "parent": 0,
+    "excerpt": "Jewish camping is powerful and transformative. Generation after generation of Jewish children have been influenced and invigorated by their Jewish heritage and Jewish identity after spending their summer at Camp Barney Medintz. Jewish campers grow up to be connected to Jewish life and identify proudly within the Jewish community as adults. Recently, The Foundation for [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 191,
+    "slug": "faqs",
+    "path": "/staff/faqs",
+    "title": "FAQs",
+    "parent": 185,
+    "excerpt": "If you still have questions, email us at summer@campbarney.org.",
+    "menuOrder": 0
+  },
+  {
+    "id": 189,
+    "slug": "how-to-apply",
+    "path": "/staff/how-to-apply",
+    "title": "How to Apply",
+    "parent": 185,
+    "excerpt": "Domestic staff members: Domestic staff applications for Summer 2026 will open on November 3, 2025. Please return to this page on that date and follow the instructions below to apply. Complete the employment application. New staff members are required to submit three references. The reference form will be emailed to your identified references upon submission [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 187,
+    "slug": "positions",
+    "path": "/staff/positions",
+    "title": "Positions",
+    "parent": 185,
+    "excerpt": "Counselors & Unit Counselors Counselors at Camp Barney\u00a0are the main caretakers of our campers. Counselors\u00a0have a huge impact on campers\u2019 summer experience, helping them build strong relationships with their peers,\u00a0face new challenges at camp,\u00a0and\u00a0develop\u00a0confidence and independence. Read more about counselor positions. \u00a0 Program Specialists One of the most exciting things about Camp Barney is our [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 185,
+    "slug": "staff",
+    "path": "/staff",
+    "title": "Staff",
+    "parent": 0,
+    "excerpt": "Join Our Team Spend an incredible summer in the Blue Ridge Mountains making memories and creating adventures for hundreds of kids! Join our team of summer staff\u00a0and experience the\u00a0joy that is Camp Barney. You will be a role model, a teacher,\u00a0and\u00a0a friend.\u00a0Our staff return year after year because\u00a0working at\u00a0camp\u00a0provides\u00a0leadership and life skills that\u00a0are rewarding beyond [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 163,
+    "slug": "camp-store",
+    "path": "/current-families/camp-store",
+    "title": "Camp Store",
+    "parent": 155,
+    "excerpt": "Camp Barney Medintz has an online gift store with Camp Barney items for the whole family! We are always adding new products, so click here\u00a0to order your Camp Barney gear now.",
+    "menuOrder": 0
+  },
+  {
+    "id": 161,
+    "slug": "healthy-campers",
+    "path": "/current-families/healthy-campers",
+    "title": "Happy & Healthy Campers",
+    "parent": 155,
+    "excerpt": "Medical Services | Mental Health Support | Nutrition \u00a0 Medical Services Our Billi and Bernie Marcus Health Center Our goal at Camp Barney is to provide the safest and healthiest environment for your child! Our state-of-the-art Billi and Bernie Marcus Health Center is staffed by a resident physician and three to five registered nurses or [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 159,
+    "slug": "handbook-forms",
+    "path": "/current-families/handbook-forms",
+    "title": "Handbook & More",
+    "parent": 155,
+    "excerpt": "Along with the excitement about a Camp Barney summer comes the logistics. How will my children get to camp? What should they pack? Can I communicate with them during the summer? What if they need to take medicine while at camp? Rest assured that we have thought through all these details and more to ensure [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 155,
+    "slug": "current-families",
+    "path": "/current-families",
+    "title": "Current Families",
+    "parent": 0,
+    "excerpt": "Welcome to Camp Barney Medintz Whether you are a first-time family or have been part of the Barney tradition for generations, we are thrilled you are a part of the Camp Barney Medintz family. The moment camp ends, we start looking forward to next summer. Our year-round staff begins planning for an even more memorable [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 138,
+    "slug": "rentals",
+    "path": "/explore/rentals",
+    "title": "Rentals",
+    "parent": 116,
+    "excerpt": "Everyone knows that Camp Barney Medintz provides the most meaningful and exciting Jewish summer camp experience. Did you also know that you can celebrate your special occasions here too? Whether you are celebrating Shabbat, a Jewish lifecycle event, or another meaningful occasion, the Zaban Chapel is the ideal setting. When it is time to eat, [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 136,
+    "slug": "cbm-and-mjcca",
+    "path": "/explore/cbm-and-mjcca",
+    "title": "CBM and MJCCA",
+    "parent": 116,
+    "excerpt": "The Marcus Jewish Community Center of Atlanta (MJCCA) fosters and ensures a vibrant greater Atlanta Jewish community by providing hundreds of programs and services of distinction that attract, involve, and inspire meaningful Jewish connections and promote Jewish values. Serving the greater Atlanta community for more than 100 years, the MJCCA impacts more lives than any [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 134,
+    "slug": "faqs",
+    "path": "/explore/faqs",
+    "title": "FAQs",
+    "parent": 116,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 132,
+    "slug": "why",
+    "path": "/explore/why",
+    "title": "Why Camp Barney Medintz",
+    "parent": 116,
+    "excerpt": "The activities are endless and the counselors are stellar. Adventure abounds and Jewish identity is solidified. For a real peek into the magic that is Camp Barney Medintz, we\u2019ve shared with you these words from parents and campers alike. CBM gave me role models other than my parents, as well as the ability to be [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 128,
+    "slug": "jewish-life",
+    "path": "/explore/jewish-life",
+    "title": "Jewish Life",
+    "parent": 116,
+    "excerpt": "Studies continue to show that a Jewish overnight camp experience is the greatest indicator of a connection to Jewish identity throughout life. Here at Camp Barney Medintz, we inspire and solidify your camper\u2019s connection to their Jewish heritage, creating a lifelong connection to Jewish tradition. Jewish customs, traditions, and culture are woven into everyday life [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 124,
+    "slug": "virtual-tour",
+    "path": "/explore/virtual-tour",
+    "title": "Virtual Tour",
+    "parent": 116,
+    "excerpt": "",
+    "menuOrder": 0
+  },
+  {
+    "id": 116,
+    "slug": "explore",
+    "path": "/explore",
+    "title": "Explore Camp Barney Medintz",
+    "parent": 0,
+    "excerpt": "Our Summer Place Our facilities are terrific and our activities endless, but the Camp Barney experience is about so much more. Camp Barney is about the lifelong friendships developed, the sense of independence and self-confidence gained, and the connection to Jewish identity secured. All while our campers have the best summers of their lives. The [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 5,
+    "slug": "home",
+    "path": "/",
+    "title": "Home",
+    "parent": 0,
+    "excerpt": "Camp Barney Medintz has provided the most magical Jewish summer overnight camping adventure for boys and girls for six decades! Surrounded by more than 500 acres in the picturesque North Georgia mountains, Camp Barney Medintz campers experience the magic of overnight camp and the joy of making lifelong friends while challenging themselves with new activities [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 122,
+    "slug": "staff",
+    "path": "/explore/staff",
+    "title": "Camp Barney\u2019s Summer Staff",
+    "parent": 116,
+    "excerpt": "We recognize that it is of utmost importance that our counselors and staff are not only highly qualified but also wholly committed to each camper\u2019s safety and needs. We personally interview every staff member to ensure the right fit. Our thorough screening process includes reference checks and a criminal background check. Our staff members receive [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 120,
+    "slug": "meet-our-directors",
+    "path": "/explore/meet-our-directors",
+    "title": "Meet Our Year-Round Staff",
+    "parent": 116,
+    "excerpt": "Danny Herz \u2013 Executive Director danny@campbarney.org | 678.812.3844 Danny has been a leader in overnight camping for more than 13 years, and most recently served as Executive Director of URJ\u2019s 6 Points Sports Academy, 6 Points Creative Arts Academy, and 6 Points Sci-Tech Academy. He has a 15+ year career in education, serving on the [\u2026]",
+    "menuOrder": 0
+  },
+  {
+    "id": 118,
+    "slug": "activities",
+    "path": "/explore/activities",
+    "title": "Activities at Camp Barney",
+    "parent": 116,
+    "excerpt": "For our campers, the options are as endless as the smiles. At Camp Barney Medintz, campers enjoy the activities they know and love while also challenging themselves with new adventures every day. Guided by our experienced, certified, and fun specialist staff, our campers spend their days with their friends at their side exploring their every [\u2026]",
+    "menuOrder": 0
+  }
+]
