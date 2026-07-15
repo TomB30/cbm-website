@@ -3,25 +3,26 @@ import { RouterLink } from 'vue-router'
 import Reveal from '@/components/Reveal.vue'
 import CtaBanner from '@/components/CtaBanner.vue'
 import { site } from '@/content/site'
+import { publicUrl } from '@/utils/publicUrl'
 
 const highlights = [
   {
     title: 'Camp Builds Character',
     text: 'Belonging, kindness, independence — see what campers and parents say about a CBM summer.',
     to: '/explore/camp-builds-character',
-    image: '/images/families.jpg',
+    image: publicUrl('images/families.jpg'),
   },
   {
     title: 'See Camp in Action',
     text: 'Watch the magic: lakes, cabins, friendships, and the joy of Our Summer Place.',
     to: '/explore/camp-videos',
-    image: '/images/beach-run.jpg',
+    image: publicUrl('images/beach-run.jpg'),
   },
   {
     title: 'Take a Tour',
     text: 'Join us on campus for Aug 6 or Sept 9 tours — or explore our virtual tour anytime.',
     to: '/explore/camptours',
-    image: '/images/hero-lake.jpg',
+    image: publicUrl('images/hero-lake.jpg'),
   },
 ]
 
@@ -36,7 +37,7 @@ const programs = [
   <div class="home">
     <section class="hero">
       <div class="hero-bg" aria-hidden="true">
-        <img src="/images/hero-explore.jpg" alt="" />
+        <img :src="publicUrl('images/hero-explore.jpg')" alt="" />
         <div class="shade" />
       </div>
       <div class="container hero-content">
@@ -137,9 +138,9 @@ const programs = [
 
     <section class="section atmosphere">
       <div class="container-wide mosaic">
-        <img src="/images/horse.jpg" alt="Camper with a horse at Camp Barney" loading="lazy" />
-        <img src="/images/beach-run.jpg" alt="Campers running on the beach" loading="lazy" />
-        <img src="/images/families.jpg" alt="Camp Barney community" loading="lazy" />
+        <img :src="publicUrl('images/horse.jpg')" alt="Camper with a horse at Camp Barney" loading="lazy" />
+        <img :src="publicUrl('images/beach-run.jpg')" alt="Campers running on the beach" loading="lazy" />
+        <img :src="publicUrl('images/families.jpg')" alt="Camp Barney community" loading="lazy" />
         <div class="mosaic-copy">
           <p class="eyebrow">Jewish overnight camp</p>
           <h2>Friendship. Adventure. Belonging.</h2>

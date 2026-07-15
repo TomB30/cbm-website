@@ -8,6 +8,7 @@ import CtaBanner from '@/components/CtaBanner.vue'
 import Reveal from '@/components/Reveal.vue'
 import { getBreadcrumbs, getSectionNav, loadPageByPath } from '@/content/site'
 import type { PageContent } from '@/content/types'
+import { publicUrl } from '@/utils/publicUrl'
 
 const route = useRoute()
 const page = ref<PageContent | null>(null)
@@ -29,7 +30,7 @@ const isSectionRoot = computed(
   () => !!page.value && !!sectionNav.value && page.value.id === sectionNav.value.root.id,
 )
 const cleanTitle = computed(() => page.value?.title.replace(/^🏕️\s*/, '') ?? 'Page')
-const heroImage = computed(() => page.value?.images[0] || '/images/hero-lake.jpg')
+const heroImage = computed(() => page.value?.images[0] || publicUrl('images/hero-lake.jpg'))
 const subtitle = computed(() => {
   if (!page.value) return ''
   if (page.value.excerpt) return page.value.excerpt

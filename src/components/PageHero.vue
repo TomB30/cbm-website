@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { publicUrl } from '@/utils/publicUrl'
+
 defineProps<{
   title: string
   eyebrow?: string
@@ -6,13 +8,15 @@ defineProps<{
   image?: string
   compact?: boolean
 }>()
+
+const fallbackHero = publicUrl('images/hero-explore.jpg')
 </script>
 
 <template>
   <section class="hero" :class="{ compact }">
     <div class="hero-media" aria-hidden="true">
       <img
-        :src="image || '/images/hero-explore.jpg'"
+        :src="image || fallbackHero"
         alt=""
         loading="eager"
       />
